@@ -166,8 +166,8 @@ if __name__ == "__main__":
     # Paradigm Async Client Instantiation
     paradigm_client: ParadigmAsyncClient = ParadigmAsyncClient(
         operating_environment='TEST',
-        access_key='KhPv3MCrcWrFzUG3Yk7RlrS8',
-        secret_key='x2BRplx4481g0Kt0W4FBZEzpnYPNWGPvkAR67Wg/9fT9wQeL',
+        access_key='<access-key>',
+        secret_key='<secret-key>',
         method='GET',
         endpoint='/v1/drfq/rfq/',
         body={}

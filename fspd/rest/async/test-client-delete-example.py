@@ -166,8 +166,8 @@ if __name__ == "__main__":
     # Paradigm Async Client Instantiation
     paradigm_client: ParadigmAsyncClient = ParadigmAsyncClient(
         operating_environment='TEST',
-        access_key='vvmIFOjV3doV1qAZD3jtjvHx',
-        secret_key='751Q33H3sq5kMB1RRJnvCs7W6DMJU40PJspTnC2l3GojhXoO',
+        access_key='<access-key>',
+        secret_key='<secret-key>',
         method='DELETE',
         endpoint='/v1/fs/orders',
         body={}
