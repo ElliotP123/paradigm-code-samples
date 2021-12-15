@@ -13,13 +13,13 @@ All examples have been written using **Python 3.9**.
 ### DRFQ
 * Every *RESToverHTTP* [GET] Endpoint Example
 * Every *RESToverHTTP* [POST] Endpoint Example
-* Every *RESToverHTTP* [PATCH] Endpoint Example
-* Every *RESToverHTTP* [DELETE] Endpoint Example
 * *JSON-RPCoverWebSocket* Heartbeat + Subscribe Example
 
 ### GRFQ
 * Every *RESToverHTTP* [GET] Endpoint Example
 * Every *RESToverHTTP* [POST] Endpoint Example
+* Every *RESToverHTTP* [PATCH] Endpoint Example
+* Every *RESToverHTTP* [DELETE] Endpoint Example
 * *JSON-RPCoverWebSocket* Heartbeat + Subscribe Example
 
 ### FSPD
