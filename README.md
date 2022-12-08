@@ -4,16 +4,18 @@ All examples have been written using **Python 3.9**.
 
 ## Supported Products:
 
-* DRFQ
+* DRFQv2
 * GRFQ
 * FSPD
+* DRFQv1
 
 ## Available Examples:
 
-### DRFQ
+### DRFQv2
 * Every *RESToverHTTP* [GET] Endpoint Example
 * Every *RESToverHTTP* [POST] Endpoint Example
-* *JSON-RPCoverWebSocket* Heartbeat + Subscribe Example
+* Every *RESToverHTTP* [PUT] Endpoint Example
+* Every *RESToverHTTP* [DELETE] Endpoint Example
 
 ### GRFQ
 * Every *RESToverHTTP* [GET] Endpoint Example
@@ -26,6 +28,11 @@ All examples have been written using **Python 3.9**.
 * Every *RESToverHTTP* [GET] Endpoint Example
 * Every *RESToverHTTP* [POST] Endpoint Example
 * Every *RESToverHTTP* [DELETE] Endpoint Example
+* *JSON-RPCoverWebSocket* Heartbeat + Subscribe Example
+
+### DRFQv1
+* Every *RESToverHTTP* [GET] Endpoint Example
+* Every *RESToverHTTP* [POST] Endpoint Example
 * *JSON-RPCoverWebSocket* Heartbeat + Subscribe Example
 
 <!-- CONTACT -->
