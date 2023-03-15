@@ -6,8 +6,8 @@ import time
 # installed
 import requests
 
-access_key = 'Z9gBdD05yiHLotRCxrSeFTfC'
-secret_key = b'9qgG7DU0XNaqF9n5Q35iQtL5Bv7JFNUffagT7/qC9jlH0exj'
+access_key = '<access-key>'
+secret_key = b'<secret-key>'
 
 
 def sign_request(secret_key, method, path, body):
@@ -20,7 +20,7 @@ def sign_request(secret_key, method, path, body):
 
 
 # Request Host
-host = 'https://api.nightly.paradigm.co'
+host = 'https://api.test.paradigm.co'
 
 # GET /v1/grfq/rfqs/{rfq_id}/bbo
 method = 'GET'
